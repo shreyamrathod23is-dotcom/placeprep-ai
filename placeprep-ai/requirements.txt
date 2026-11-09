@@ -1,0 +1,7 @@
+streamlit>=1.40
+langgraph>=0.2
+openai>=1.40
+plotly>=5.20
+python-dotenv>=1.0
+pydantic>=2.5
+pypdf>=4.0
